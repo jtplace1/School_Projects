@@ -2,7 +2,8 @@
 # Course:  IT1113/Section w01
 # Student Name: Jabari Smith
 # Assignment Number:  Lab 1 Due Date:     8/30/20
-# Purpose: This program takes in the user input for the name of the grocery item and the price associated with it. Then a for loop runs through the arrays in order to print the name and price.
+# Purpose: This program takes in the user input for the name of the grocery item and the price associated with it.
+#Then a for loop runs through the arrays in order to print the name and price.
 
 name = list() #set array
 price = list() #set array
