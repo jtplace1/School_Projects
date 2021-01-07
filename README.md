@@ -1,2 +1,2 @@
 # School_Projects
-A repository of projects done between while attending KSU for Information Technology
+A repository of projects done while attending KSU for Information Technology
